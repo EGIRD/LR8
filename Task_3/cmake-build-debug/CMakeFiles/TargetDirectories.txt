@@ -1,0 +1,2 @@
+/home/yagor/Документы/453505/ОАиП/LR8/Task_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yagor/Документы/453505/ОАиП/LR8/Task_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

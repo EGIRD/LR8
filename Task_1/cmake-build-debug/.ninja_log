@@ -1,0 +1,10 @@
+# ninja log v6
+0	234	1735435259857781743	CMakeFiles/Task_1.dir/main.cpp.o	e3105aaea819d5a3
+1	237	1735435259858781762	CMakeFiles/Task_1.dir/dobavlenie.cpp.o	fb15815f6130b48
+1	246	1735435259858781762	CMakeFiles/Task_1.dir/file_operations.cpp.o	63758b6980509eda
+0	322	1735435259857781743	CMakeFiles/Task_1.dir/delete_change.cpp.o	4bf983115a88d80a
+246	479	1735435260102786361	CMakeFiles/Task_1.dir/output.cpp.o	527b5f0b0fcbf543
+234	479	1735435260090786134	CMakeFiles/Task_1.dir/find.cpp.o	7e005e24ad2e9398
+237	512	1735435260093786191	CMakeFiles/Task_1.dir/input.cpp.o	d07a35b99d634b27
+322	558	1735435260178787793	CMakeFiles/Task_1.dir/sort.cpp.o	f916a5ebdeaa5e6f
+558	605	1735435260414792240	Task_1	64059c74b78610

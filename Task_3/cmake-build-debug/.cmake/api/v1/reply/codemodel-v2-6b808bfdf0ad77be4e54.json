@@ -1,0 +1,39 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : "."
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yagor/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/453505/\u041e\u0410\u0438\u041f/LR8/Task_3/cmake-build-debug",
+		"source" : "/home/yagor/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/453505/\u041e\u0410\u0438\u041f/LR8/Task_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
